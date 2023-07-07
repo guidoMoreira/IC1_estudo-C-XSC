@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/gaus_seidel.dir/main.cpp.o  -o gaus_seidel -Wl,-rpath,/home/usuario/cxsc/lib /home/usuario/cxsc/lib/libcxsc.so 
