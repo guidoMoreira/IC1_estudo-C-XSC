@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/gausseidel2.dir/main.cpp.o  -o gausseidel2 -Wl,-rpath,/home/usuario/cxsc/lib /home/usuario/cxsc/lib/libcxsc.so 
