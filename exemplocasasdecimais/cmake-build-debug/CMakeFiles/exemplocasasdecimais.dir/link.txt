@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/exemplocasasdecimais.dir/main.cpp.o  -o exemplocasasdecimais -Wl,-rpath,/home/usuario/cxsc/lib /home/usuario/cxsc/lib/libcxsc.so 
