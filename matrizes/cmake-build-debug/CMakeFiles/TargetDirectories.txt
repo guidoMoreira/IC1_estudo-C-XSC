@@ -1,0 +1,3 @@
+/home/usuario/CLionProjects/matrizes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/usuario/CLionProjects/matrizes/cmake-build-debug/CMakeFiles/matrizes.dir
+/home/usuario/CLionProjects/matrizes/cmake-build-debug/CMakeFiles/edit_cache.dir

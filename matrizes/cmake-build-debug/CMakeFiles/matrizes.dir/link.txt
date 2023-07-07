@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/matrizes.dir/main.cpp.o  -o matrizes -Wl,-rpath,/home/usuario/cxsc/lib /home/usuario/cxsc/lib/libcxsc.so 

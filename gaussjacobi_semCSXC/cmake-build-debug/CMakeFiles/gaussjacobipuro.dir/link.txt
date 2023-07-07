@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/gaussjacobipuro.dir/main.cpp.o  -o gaussjacobipuro 

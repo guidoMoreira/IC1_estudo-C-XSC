@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/gaussjacobixsc.dir/main.cpp.o  -o gaussjacobixsc -Wl,-rpath,/home/usuario/cxsc/lib /home/usuario/cxsc/lib/libcxsc.so 
