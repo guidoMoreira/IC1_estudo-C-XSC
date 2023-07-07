@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled1.dir/main.cpp.o  -o untitled1 -Wl,-rpath,/home/usuario/cxsc/lib /home/usuario/cxsc/lib/libcxsc.so 

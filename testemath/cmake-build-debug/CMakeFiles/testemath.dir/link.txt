@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/testemath.dir/main.cpp.o  -o testemath -Wl,-rpath,/home/usuario/cxsc/lib /home/usuario/cxsc/lib/libcxsc.so 
